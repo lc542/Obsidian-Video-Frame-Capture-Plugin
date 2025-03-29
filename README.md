@@ -1,0 +1,1 @@
+# Obsidian-Video-Frame-Capture-Plugin
