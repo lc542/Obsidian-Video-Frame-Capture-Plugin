@@ -1,0 +1,10 @@
+{
+	"id": "video-frame-capture",
+	"name": "Video Frame Capture",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "DOM flush plugin for Obsidian video frame capture.",
+	"author": "Lihong C.",
+	"authorUrl": "https://github.com/lc542",
+	"isDesktopOnly": false
+}
